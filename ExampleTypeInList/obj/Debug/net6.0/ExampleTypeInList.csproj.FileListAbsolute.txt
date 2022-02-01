@@ -1,0 +1,15 @@
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/bin/Debug/net6.0/ExampleTypeInList
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/bin/Debug/net6.0/ExampleTypeInList.deps.json
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/bin/Debug/net6.0/ExampleTypeInList.runtimeconfig.json
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/bin/Debug/net6.0/ExampleTypeInList.dll
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/bin/Debug/net6.0/ref/ExampleTypeInList.dll
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/bin/Debug/net6.0/ExampleTypeInList.pdb
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/obj/Debug/net6.0/ExampleTypeInList.csproj.AssemblyReference.cache
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/obj/Debug/net6.0/ExampleTypeInList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/obj/Debug/net6.0/ExampleTypeInList.AssemblyInfoInputs.cache
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/obj/Debug/net6.0/ExampleTypeInList.AssemblyInfo.cs
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/obj/Debug/net6.0/ExampleTypeInList.csproj.CoreCompileInputs.cache
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/obj/Debug/net6.0/ExampleTypeInList.dll
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/obj/Debug/net6.0/ref/ExampleTypeInList.dll
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/obj/Debug/net6.0/ExampleTypeInList.pdb
+/Users/desjardinsm/Projects/DotNet Projects/ExampleTypeInList/ExampleTypeInList/obj/Debug/net6.0/ExampleTypeInList.genruntimeconfig.cache
