@@ -7,7 +7,7 @@ list.Add(typeof(int));
 list.Add(typeof(double));
 list.Add(typeof(long));
 list.Add(typeof(sbyte));
-//list.Add(typeof(string)); This does not work becasue it does not have a maxvalue
+//list.Add(typeof(string)); This does not work because it does not have a maxvalue
 
 foreach (var item in list)
 {
